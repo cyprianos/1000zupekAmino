@@ -1,11 +1,16 @@
 # 1000zupekAmino
 
+## O co kaman
+
 Pewien kolo z kanału "Bez kanału" kupił 1000 "chinskich" zupek amino i chciał wygrac w konkursie "Kasa Romana". 
 
 [https://www.youtube.com/watch?v=7bAULgMWEV8]
 
-W skrócie wygrywasz sumę, jeśli suma kuponów jest wielokrotnością 100 np 100, 200, 300 itd. Ale suma nie może przekroczyć 1000 :)
+## Zasady
+Wygrywasz sumę, jeśli suma kuponów jest wielokrotnością 100 np 100, 200, 300 itd. Ale suma nie może przekroczyć 1000 :)
 
+
+##Wyniki
 No więc w tych 1000 zupek były 94 różne kwoty.
 
 Okazało się, że dla sum dwóch albo trzech liczb jest całkiem sporo wielokrotności 100, ale wszystkie powyżej 1000 :D
@@ -20,7 +25,7 @@ Strach się bać, co by się działo, kiedy te kwoty były 10 razy większe a su
 
 Czemu tak zrobili? Może te kwoty wydałyby się mniej realne, ludzie nie daliby się tak nabrać i wyszło im z badań ze lepiej dać troche mniejsze? Pewnie tak, ale tego się wprost nie dowiemy :P
 
-Wnioski:
+##Wnioski:
 
 * kupcie se zupkę jak chcecie kupić zupkę, a nie wygrać :)
 * Maksymalną liczbę zwycięzców móżna bardzo łatwo kontrolować, dobierając odpowiednie liczby. Co oznacza, że można oszacować, ile pieniędzy idzie na wygrane i Amino na pewno od samego początku miało w budżecie kwotę przeznaczoną na wygraną
